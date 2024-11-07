@@ -1,0 +1,7 @@
+opencv-python 
+tensorflow 
+numpy 
+imageio 
+keras(或确保tensorflow的版本包含tensorflow.keras)
+scikit-learn 
+matplotlib
